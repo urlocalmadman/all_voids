@@ -6,3 +6,9 @@ Also has a collection of the svgs of all the voidpets so that you can edit and v
 I don't own any of the designs here and they've all been scraped from https://img.voidpet.com and https://voidpet.com/o/pet-item-editor. All the designs belong to the creators Ben Awad and Linda Shad.
 
 To render the svgs, I recommend using a website like https://mybyways.com/blog/convert-svg-to-png-using-your-browser. Just paste the html in the input box way down. Left it in this way as I found it easier to edit and understand.
+
+### Updates
+
+-   Added **Curiosity** stages 1,2,3(4,5 are not available yet)
+-   Added `svg.js` to convert svgs to pngs with colors for getting new emotions faster
+-   Minor changes to `main.py` to make it function as intended
