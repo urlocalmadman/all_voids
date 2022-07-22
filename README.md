@@ -2,7 +2,7 @@
 
 Combinations of all possible emotions along with their levels with all possible vivid types and normal type.
 Also has a collection of the svgs of all the voidpets so that you can edit and view them in higher resolution easier.
-Now it *also* has all the animations and each individual frame.
+Now it _also_ has all the animations and each individual frame.
 
 I don't own any of the designs here and they've all been scraped from https://img.voidpet.com and https://voidpet.com/o/pet-item-editor. All the designs belong to the creators Ben Awad and Linda Shad.
 
@@ -10,6 +10,4 @@ To render the svgs, I recommend using a website like https://mybyways.com/blog/c
 
 ### Updates
 
--   Added **Curiosity** stages 1,2,3(4,5 are not available yet)
--   Added `svg.js` to convert svgs to pngs with colors for getting new emotions faster
--   Minor changes to `main.py` to make it function as intended
+-   Added **Curiosity** stages 4,5
