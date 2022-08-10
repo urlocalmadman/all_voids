@@ -10,6 +10,10 @@ To render the svgs, I recommend using a website like https://mybyways.com/blog/c
 
 ### Updates
 
+-   Added `Cringe` sprites
+
+### Previously
+
 -   All sprites are now transparent and 150% bigger
 -   `main.py` is deprecated
 -   Sprites no longer rely on https://img.voidpet.com
