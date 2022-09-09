@@ -10,11 +10,9 @@ To render the svgs, I recommend using a website like https://mybyways.com/blog/c
 
 ### Updates
 
--   Added `Cringe` sprites
+-   Reduced image size slightly for better visibility on browsers
+-   Added `Larger` folder for 4k resolution images
 
 ### Previously
 
--   All sprites are now transparent and 150% bigger
--   `main.py` is deprecated
--   Sprites no longer rely on https://img.voidpet.com
--   Added `all.js` to convert svgs to pngs. Changed `svg.js` to `one.js` cus it sounds cooler and more accurate
+-   Added `Cringe` sprites
